@@ -1,4 +1,4 @@
-# mathematical-optimization
+# Mathematical-Optimization
 
 
 This is mathematical optimization class Code!
